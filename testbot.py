@@ -1599,4 +1599,4 @@ from helpcmd import helper
 helper(client)
 
 
-client.run("ODMzMDc5NTMyMjc2OTQwODQw.YHtHxg.vwpsuxE7jXwD-4tvu7uxng9MULI")
+client.run("Token")
