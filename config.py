@@ -1,7 +1,7 @@
 
 poll_photos=937051423286394893
-client_id_1="ie-QpRkSJVz8Lli_KZsSTA"
-client_secret_1="GJcEuyK_AhcxyKnpF8AyGzaeQ3j07w"
+client_id_1="Secret"
+client_secret_1="Secret"
 client_agent_1="<1.0.0>"
 hhh=["https://c.tenor.com/WCeJaacSAecAAAAC/anime-wedding.gif","https://c.tenor.com/k2zxchaF2jwAAAAC/anime-wedding.gif","https://media.giphy.com/media/13V4HjgAOIhvDq/giphy.gif","https://c.tenor.com/fLCsfPKZrlkAAAAC/goku-chichi.gif"]
 f_emo="<:F_:908108441577455656>"
@@ -49,7 +49,7 @@ heads="<:heads:935254239096238130>"
 bot_acc="https://discordbotlist.com/bots/empress-waifu"
 vote_link="https://discordbotlist.com/bots/empress-waifu/upvote"
 
-token2="OTQyMDg2MzIyMTk2MTk3NDI2.YgfYQg.I3yPrqZMOA15iCsUN3LxtP1FCd0"
+token2="Token"
 
 twitter_emoji = "<:twitter:955512119758028821>"
 twitter_acc = "https://twitter.com/empress_waifu"
